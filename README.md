@@ -22,7 +22,8 @@ Feedback on testing parameters, unit/building costing and quality of gameplay is
 # TECH CORE PATCH NOTES 0.6.2
 
 *Requires "Force Load All Units"*
-*Requires tweakdef xp removal and TC tweakunits in two parts*
+
+*Requires tweakdef XP removal and TC tweakunits in two parts*
 
 -T1 Cons can produce the Tech Core building, found on the Lab menu (Repurposed Experimental Armada Airlab).
 
