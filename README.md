@@ -3,7 +3,7 @@ Hosting site for the updated information and tweakcodes of the BAR TechCore init
 
 ------
 
-README - TECH CORE PATCH
+# README - TECH CORE PATCH
  
 Made by C3BO in the spirit of MeowCatMeow’s economic system overhaul.
 
@@ -19,7 +19,7 @@ Feedback on testing parameters, unit/building costing and quality of gameplay is
 
 ------
 
-TECH CORE PATCH NOTES 0.6.2
+# TECH CORE PATCH NOTES 0.6.2
 
 *Requires "Force Load All Units"*
 *Requires tweakdef xp removal and TC tweakunits in two parts*
@@ -28,7 +28,7 @@ TECH CORE PATCH NOTES 0.6.2
 
 -Tech Core building (Stats 1100M 12000E 10000Buildtime 3000HP, +100E/s production, can be built on land or sea, cannot be reclaimed), produces Tech Con (Repurposed Cortex Printer).
 
--Tech Con (Stats Air movement, speed 50,) only ability is to produce Tech Mexes (Repurposed Legion overcharged mex).
+-Tech Con (Hover movement) only ability is to produce Tech Mexes (Repurposed Legion overcharged mex).
 
 -Tech Mex (Stats 750M 6500E 12000Buildtime x3M income 30E/s upkeep).
 
