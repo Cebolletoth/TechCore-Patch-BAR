@@ -3,14 +3,14 @@ Hosting site for the updated information and tweakcodes of the BAR TechCore init
 
 ------
 
-TECH CORE PATCH NOTES 
+README - TECH CORE PATCH
  
 Made by C3BO in the spirit of MeowCatMeow’s economic system overhaul.
 
 TechCores rely on the infrastructure provided by Seth's TechBlocking modoption which he kindly allowed us to use for this public initiative.
 - This requires the use of a tweakdef (code provided) to supress the original passive lab xp generation from the modoption.
 
-The Techcore patch tweakunits restricts the player/team's ability to build higher tech level factories by requiring them to be "researched" first. Each TechCore building (experimental armada airlab - available to all T1cons buildmenu) provides a single TechPoint that counts towards permanently unlocking the next tier level as long as the building is alive. Losing unlocked tech tiers is not possible despite losing techcores after that point.
+The Techcore patch tweakunits restricts the player/team's ability to build higher tech level factories by requiring them to be "researched" first. Each TechCore building (-experimental armada airlab- available to all T1cons buildmenu) provides a single TechPoint that counts towards permanently unlocking the next tier level as long as the building is alive. Losing unlocked tech tiers is not possible despite losing techcores after that point.
 - The research thresholds can be set by using the control panel of the Techblocking modoption.
 - Recommended initial testing parameters: Set to points per team, 50% (roundedup) of TeamSize for T2 and 100% of Team Size for T3.
 - The use of extra experimental game assets requires enabling the "Force load all units" tickbox under the Advanced lobby options - Cheat section.
@@ -21,13 +21,11 @@ Feedback on testing parameters, unit/building costing and quality of gameplay is
 
 TECH CORE PATCH NOTES 0.6.2
 
-Made by C3BO in the spirit of MeowCatMeow’s economic system overhaul.
-
 *Requires "Force Load All Units"*
 *Requires tweakdef xp removal and TC tweakunits in two parts*
--T1 Cons can produce the Tech Core building, found on the Lab menu [Repurposed Experimental Armada Airlab].
--Tech Core building (Stats 1100M 12000E 10000Buildtime 3000HP, +100E/s production, can be built on land or sea, cannot be reclaimed), produces Tech Con [Repurposed Cortex Printer tank].
--Tech Con (Stats Air movement, speed 50,) only ability is to produce Tech Mexes (Repurposed Legion overcharged mex)
+-T1 Cons can produce the Tech Core building, found on the Lab menu -Repurposed Experimental Armada Airlab-.
+-Tech Core building (Stats 1100M 12000E 10000Buildtime 3000HP, +100E/s production, can be built on land or sea, cannot be reclaimed), produces Tech Con -Repurposed Cortex Printer-.
+-Tech Con (Stats Air movement, speed 50,) only ability is to produce Tech Mexes -Repurposed Legion overcharged mex-.
 -Tech Mex (Stats 750M 6500E 12000Buildtime x3M income 30E/s upkeep).
 -T2 labs have reduced costs as part of the cost has already been invested into building the necessary Tech Cores.
 -Legion faction changes: legmex gives 90%M and +4E/s, construction turrets receive +10bp as compensation for not having special minifortifier t1.5mex.
@@ -36,9 +34,9 @@ Made by C3BO in the spirit of MeowCatMeow’s economic system overhaul.
 
 LOBBY WELCOME MESSAGE
 
-!welcome-message TECH CORE PATCH: [Feedback to C3BO - TechCore thread on BAR discord metadiscussion] 
+!welcome-message TECH CORE PATCH: Feedback to C3BO - TechCore thread on BAR discord metadiscussion. 
 -T1 Cons can produce the Tech Core building, found on the Lab menu [Repurposed Experimental Armada Airlab]. 
--Tech Core building  (1TechPoint - Stats 1kM 10kE 10kBT 3kHP, +100E/s. It can be built on land or sea and it produces Tech Con [Repurposed Cortex Printer]. 
+-Tech Core building  (1TechPoint - Stats 1kM 10kE 10kBT 3kHP, +100E/s. It can be built on land or sea and it produces Tech Con Repurposed Cortex Printer]. 
 -Tech Con (HOVER movement, 55speed, 300M 6.5kE, 10kBT +20E/s) only buildoption is to produce Tech Mexes [Repurposed Legion overcharged mex]. 
 -Tech Mex (Stats 750M 8kE 12kBuildtime x3M income 30E/s upkeep). 
 -T2 labs have partially reduced costs.
