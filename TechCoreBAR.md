@@ -49,7 +49,15 @@ Feedback on testing parameters, unit/building costing and quality of gameplay is
 -T2 labs have partially reduced costs.
 
 -----
+# ENABLE TECH BLOCK, SET THRESHOLDS
 
+```
+!bSet tech_blocking 1
+!bSet tech_blocking_per_team 0
+!bSet t2_tech_threshold 4
+!bSet t3_tech_threshold 8
+```
+-----
 # PASSIVE XP REMOVAL TWEAK
 
 ```
