@@ -6,6 +6,8 @@ Hosting site for the updated information and tweakcodes of the BAR TechCore init
 # README - TECH CORE PATCH
  
 Made by C3BO in the spirit of MeowCatMeow’s economic system overhaul.
+Feedback to BAR Discord thread
+https://discord.com/channels/549281623154229250/1447223310319489024
 
 TechCores rely on the infrastructure provided by Seth's TechBlocking modoption which he kindly allowed us to use for this public initiative.
 - This requires the use of a tweakdef (code provided) to supress the original passive lab xp generation from the modoption.
@@ -32,6 +34,14 @@ Team size - T2 - T3
 <img width="191" height="128" alt="image" src="https://github.com/user-attachments/assets/9937e0d1-5d18-4a13-9bd8-ac35e810ce84" />
 <img width="191" height="128" alt="image" src="https://github.com/user-attachments/assets/03c5f9e0-2128-4457-b664-659fe7e06997" />
 
+-----
+# LOBBY WELCOME MESSAGE
+
+```
+!welcome-message TECH CORE PATCH Instructions https://github.com/Cebolletoth/TechCore-Patch-BAR/blob/main/TechCoreBAR.md      -T1 Cons can produce the Tech Core building, found on the Lab menu (Repurposed Experimental Armada Airlab).  -Tech Core building  (1TechPoint - Stats 1kM 10kE 10kBT 3kHP, +100E/s. It can be built on land or sea and it produces Tech Con (Repurposed Cortex Printer). -Tech Con (HOVER movement, 55speed, 350M 6.5kE, 10kBT +20E/s) only buildoption is to produce Tech Mexes -Repurposed Legion overcharged mex-. -Tech Mex (Stats 750M 8kE 12kBuildtime x3M income 30E/s upkeep). -T2 labs have partially reduced costs.
+```
+
+-----
 
 -----
 Feedback on testing parameters, unit/building costing and quality of gameplay is highly appreciated to allow us to fine tune the balance across all game modes. Please also include replays/videos links whenever possible.
@@ -55,17 +65,6 @@ Feedback on testing parameters, unit/building costing and quality of gameplay is
 -T2 labs have reduced costs as part of the cost has already been invested into building the necessary Tech Cores.
 
 -Legion faction changes: legmex gives 90%M and +4E/s, construction turrets receive +10bp as compensation for not having special minifortifier t1.5mex.
-
------
-
-# LOBBY WELCOME MESSAGE
-
-!welcome-message TECH CORE PATCH: Feedback to C3BO - TechCore thread on BAR discord metadiscussion. 
--T1 Cons can produce the Tech Core building, found on the Lab menu (Repurposed Experimental Armada Airlab). 
--Tech Core building  (1TechPoint - Stats 1kM 10kE 10kBT 3kHP, +100E/s. It can be built on land or sea and it produces Tech Con (Repurposed Cortex Printer). 
--Tech Con (HOVER movement, 55speed, 350M 6.5kE, 10kBT +20E/s) only buildoption is to produce Tech Mexes -Repurposed Legion overcharged mex-. 
--Tech Mex (Stats 750M 8kE 12kBuildtime x3M income 30E/s upkeep). 
--T2 labs have partially reduced costs.
 
 -----
 
