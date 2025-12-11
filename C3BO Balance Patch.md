@@ -17,7 +17,7 @@ All the recommended changes together should:
 ------
 # Welcome message
 ```
-!welcome-message [https://github.com/Cebolletoth/BAR-Balance/edit/main/README.md](https://github.com/Cebolletoth/TechCore-Patch-BAR/blob/main/C3BOBalancePatch.md) Balance patch made by C3BO, see changes in link.
+!welcome-message https://github.com/Cebolletoth/TechCore-Patch-BAR/blob/main/C3BO%20Balance%20Patch.md  Balance patch made by C3BO, see changes in link.
 
 ```
 ------
