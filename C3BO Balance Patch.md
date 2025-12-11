@@ -2,6 +2,8 @@
 
 Hosting site for 5O OS battletested Beyond All Reason balance suggestions to improve gameplay based on real ingame cost-performance per unit category.
 
+Feedback to: https://discord.com/channels/549281623154229250/1448671751662997536
+
 -------
 
 # Patch objectives:
